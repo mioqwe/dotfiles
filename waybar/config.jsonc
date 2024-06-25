@@ -6,7 +6,7 @@
     "passthrough": false,
     "gtk-layer-shell": true,
     "height": 10,
-    "modules-left": ["clock", "custom/spotify", "custom/weather" ],
+    "modules-left": ["clock", "custom/spotify", ],
     "modules-center": [ "hyprland/workspaces"],
     // "modules-right": ["network", "backlight","pulseaudio","pulseaudio#microphone","tray"], 
     "modules-right": ["hyprland/window", "hyprland/language", "pulseaudio", "pulseaudio#microphone"], 
@@ -35,9 +35,9 @@
             "1": "🕷️ main |", 
             "2": "🕸️ web |", 
             "3": "💀 ter |", 
-            "4": "🎴 obs |", 
-            "5": "👁️ aditional[1] |", 
-            "6": "👁️ aditional[2] |" 
+            "4": "🎥 obs |", 
+            "5": "👁️ add[5] |", 
+            "6": "👁️ aditional[6] |" 
             // "urgent": "🚀",
             // "focused": "🚀",
             // "default": "👁️‍🗨️"

@@ -1,10 +1,11 @@
 window {
     margin: 0px;
     /* all:unset; */
-    background: rgb(107, 44, 50);
+    background: #000000;
     /* background-color: #c93b58; */
     /* background-color: rgba(0.4, 0.4, 0.4, 0.9); */
     /* border-radius: 15px;  */
+    border: 1px solid white;
 }
 
 #input {
@@ -12,16 +13,15 @@ window {
     border: none;
     box-shadow: none;
     /* padding-left: 20px; */
-    color: #cdd6f4;
+    color: #eeeeee;
     font-weight: bold;
-    background: none;
+    background: ;
    	outline: none;
     margin: 10px 10px 0px 10px;
 }
 #input:focus, #input:focus-visible, #input:active, #input:target {
-    border: 10px solid rgb(87, 31, 45);
+    border: 10px solid rgb(255, 255, 255);
     box-shadow: none;
-
     /* padding: 4px; */
     padding-left: 20px;
     font-weight: bold;
@@ -33,7 +33,7 @@ window {
 #inner-box {
     /* margin: 4px; */
     /* border: 10px solid rgb(87, 31, 45); */
-    color: white;
+    color: whitesmoke;
     font-weight: bold;
     /* background-color: rgb(87, 31, 45);  */
     /* border-radius: 15px; */
@@ -79,14 +79,18 @@ window {
 #entry:selected {
     margin: 0px 0px;
     border: none;
-    transition: border 0.7s;
+    /* transition: border 0.4s; */
+    /* border-right: 2px solid whitesmoke;
+    border-left: 2px solid whitesmoke; */
     
-    border-top: 1px solid #b42a2f;
-    border-bottom: 1px solid #b42a2f;
+    /* border-top: 1px solid whitesmoke;
+    border-bottom: 1px solid whitesmoke; */
     /* border-radius: 15px; */
-    background-color: #442a2d;
+    border: 2px solid whitesmoke; */
+    background-color: #2f2f2f;
 }
 #entry:focus {
+    border: 2px solid whitesmoke; */
     outline: none;
     box-shadow: none;
 }
