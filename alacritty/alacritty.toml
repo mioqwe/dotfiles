@@ -1,0 +1,10 @@
+import = [
+        "~/.config/alacritty/themes/mioqwe.toml"
+ ]
+
+[window]
+padding = { x = 0, y = 0 }
+
+[font]
+size = 12.25
+
