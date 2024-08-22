@@ -1,0 +1,125 @@
+
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.gpuAcceleration": "off",
+    "vscode_vibrancy.opacity": 0.1,
+    "vscode_vibrancy.imports": [
+
+        "$theme-style$"
+    ],
+    "workbench.editorAssociations": {
+        "*.sqlite3": "default",
+        "*.xlsx": "default",
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+    },
+    "emmet.excludeLanguages": [],
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "html.format.contentUnformatted": "",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'Mononoki Nerd Font'",
+    "editor.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.iconTheme": "vscode-icons",
+    "[python]": {
+        "editor.formatOnType": true
+    
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "python.defaultInterpreterPath": "C:\\Users\\Egor\\scoop\\apps\\miniconda3\\current\\python.exe",
+    "react-native-tools.showUserTips": false,
+    "translation.targetLanguage": "uk",
+    "google-translate.firstLanguage": "en",
+    "google-translate.secondLanguage": "en",
+    "liveSassCompile.settings.generateMap": false,
+    "breadcrumbs.icons": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.fontLigatures": false,
+    "window.doubleClickIconToClose": true,
+    "editor.fontVariations": false,
+    "editor.minimap.size": "fill",
+    "editor.minimap.enabled": false,
+    "svelte.enable-ts-plugin": true,
+    "glassit.alpha": 255,
+    "window.commandCenter": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.git": true,
+        "**/env": true
+    },
+
+
+    "vim.commandLineModeKeyBindingsNonRecursive": [   
+    ],
+    "vim.leader": "<space>",
+    "vim.insertModeKeyBindingsNonRecursive": [
+
+    ],
+    "workbench.editor.showTabs": "none",
+    "files.associations": {
+        "*.svelte": "svelte"
+    },
+    
+    "update.mode": "manual",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.location": "hidden",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.renderWhitespace": "none",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.zoomLevel": -1,
+    "workbench.sideBar.location": "right",
+
+    "editor.stickyScroll.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "workbench.colorTheme": "Ghostish",
+    "workbench.colorCustomizations": {
+    "[Ghostish]": {
+            "scrollbar.shadow": "#000000",
+            "editorLineNumber.activeForeground": "#f4ea66",
+            "editorCursor.background": "#050505",
+            "editorGutter.background": "#05050500",
+            "widget.shadow": "#4e4e4e00",
+            "widget.border": "#777777be",
+            "editorCursor.foreground": "#f4ea66",
+            "editorLineNumber.foreground": "#444444"
+        },
+    "[Quiet Light]": {
+            // "scrollbar.shadow": "#000000",
+            // "editorLineNumber.activeForeground": "#f4ea66",
+            // "editorCursor.background": "#AAADBE",
+            // "editorGutter.background": "#05050500",
+            // "widget.shadow": "#4e4e4e00",
+            // "widget.border": "#777777be",
+            // "editorCursor.foreground": "#f4ea66",
+            // "editorLineNumber.foreground": "#444444"
+        }
+    },
+
+
+    "editor.inlineSuggest.showToolbar": "never",
+    "workbench.tips.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "breadcrumbs.enabled": false,
+    "vim.easymotion": true,
+    "vim.easymotionIncSearchForegroundColor": "#4287f5",
+    "vim.statusBarColors.easymotioninputmode": "#ffffff",
+    "vim.easymotionMarkerBackgroundColor": "",
+    "vim.easymotionMarkerForegroundColorOneChar": "#4287f5",
+    "vim.easymotionMarkerForegroundColorTwoCharFirst": "#0281b0",
+    "vim.easymotionMarkerForegroundColorTwoCharSecond": "#49c5f2",
+    "debug.showInlineBreakpointCandidates": false,
+    "editor.glyphMargin": false,
+    
+}
+
