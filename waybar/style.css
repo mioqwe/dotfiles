@@ -9,16 +9,16 @@
 
 
 window#waybar {
-    background-color: #040404;
+    background-color:  #cdd6f4;
     /* background: rgba(167, 40, 184, 0); */
-    color: #cdd6f4;
+    color: #040404;
 }
 
 .custom-spotify {
     padding: 0 10px;
     margin: 0 4px;
     background-color: #2a4e36;
-    color: #abadb0;
+    color: #040404;
 }
 
 tooltip {
@@ -31,13 +31,13 @@ tooltip {
 
 #workspaces button {
     /* padding: 5px; */
-    color: #abadb0;
+    color: #040404;
     margin-right: 5px;
     border-radius: 0px;
 }
 
 #workspaces button.active {
-    color: #f1f5ff;
+    color: #040404;
 }
 
 #workspaces button.focused {
@@ -106,20 +106,17 @@ tooltip {
     /* border-radius: 10px; */
     margin-left: 60px;
     margin-right: 60px;
-    color: #696F78;
+    color: #040404;
 }
 
 #clock {
-    color: #696F78;
-    /* border-radius: 10px 0px 0px 10px; */
-
+    color: #040404;
     margin-left: 10px;
     border-right: 0px;
 }
 
 #network {
-    color: #696F78;
-    /* border-radius: 10px 0px 0px 10px; */
+    color: #040404;
     border-left: 0px;
     border-right: 0px;
 }
@@ -131,13 +128,13 @@ tooltip {
 } 
 
 #pulseaudio {
-    color: #696F78;
+    color: #040404;
     border-left: 0px;
     border-right: 0px;
 }
 
 #pulseaudio.microphone {
-    color: #696F78;
+    color: #040404;
     border-left: 0px;
     border-right: 0px;
     /* border-radius: 0px 10px 10px 0px; */
@@ -153,7 +150,7 @@ tooltip {
 
 #custom-weather {
     /* border-radius: 0px 10px 10px 0px; */
-    color:  #696F78;
+    color: #040404;
     border-right: 0px;
     margin-left: 0px;
 }

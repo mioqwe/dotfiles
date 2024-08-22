@@ -70,7 +70,7 @@
 
     "clock": {
 	"timezone": "Europe/Kyiv",
-        "format": "<span color='#ffffff'>{:%I:%M %p}</span>",
+        "format": "<span>{:%I:%M %p}</span>",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 
