@@ -2,7 +2,7 @@
 
 # Default colors - taken from ayu-colors
 [colors.primary]
-background = '#F3F6FB'
+background = '#000000'
 foreground = '#525B74'
 
 # Normal colors - taken from ayu-iTerm
